@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Speak Up Sing Out]]></title>
+        <description><![CDATA[Speak Up Sing Out]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Apr 2016 12:48:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SpeakUp SingOut Concert]]></title>
+            <description><![CDATA[<p>On the 22nd of April, SUSO Gospel Choir & Kilcock Mens Shed Choir will be joining forces for a fantastic event of collaboration, community and music!</p>]]></description>
+            <link>undefinedspeakup-singout-concert/index.html</link>
+            <guid isPermaLink="false">cd7a3218-df81-4a09-8f49-d458c2d1edb9</guid>
+            <pubDate>Thu, 21 Apr 2016 12:48:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
