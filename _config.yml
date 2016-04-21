@@ -1,7 +1,7 @@
-name: Sing Up Speak Out
+name: Speak Up Sing Out
 favicon: null
 layout_spectrum: 0.6600138591602445
-typography_spectrum: 0.9782812828198075
+typography_spectrum: 0.32752
 title: Speak Up Sing Out
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.4164284181315452
+  brandStrength: 0.4375
   lightness: 0.45899535925127566
   saturation: 0.6028545836452395
   rhythmicContrast: 0.4078850999940187
