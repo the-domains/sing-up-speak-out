@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Did you know that here at SpeakUp SingOut we provide life coaching for older teenagers to help with confidence building and anxiety management?  '
-datePublished: '2016-04-21T12:55:15.752Z'
-dateModified: '2016-04-21T12:54:42.334Z'
+description: 'Did you know that here at SpeakUp SingOut we provide life coaching for older teenagers to help with confidence building and anxiety management? '
+datePublished: '2016-04-21T13:05:10.619Z'
+dateModified: '2016-04-21T12:55:17.733Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-21-life-coaching-for-teens.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-life-coaching-for-teens.md
-published: true
 url: life-coaching-for-teens/index.html
 _type: Article
 
