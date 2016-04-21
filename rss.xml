@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Speak Up Sing Out]]></title>
         <description><![CDATA[Speak Up Sing Out]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sing-up-speak-out/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 12:48:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 12:49:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sing-up-speak-out/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Speak Up Sing Out]]></title>
+            <description><![CDATA[<article><h1>About Speak Up Sing Out</h1><p> While the seeds of this organisation have been growing for many years, we only found our home & officially opened our doors in January 2015. SpeakUp SingOut is ran by three sisters, Claire, Eimear and Ailish.</p></article>]]></description>
+            <link>https://thegrid.ai/sing-up-speak-out/about-speak-up-sing-out/index.html</link>
+            <guid isPermaLink="false">f4f26425-0ad3-4da6-a4a9-e85572e4dd70</guid>
+            <pubDate>Thu, 21 Apr 2016 12:49:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SpeakUp SingOut Concert]]></title>
             <description><![CDATA[<p>On the 22nd of April, SUSO Gospel Choir & Kilcock Mens Shed Choir will be joining forces for a fantastic event of collaboration, community and music!</p>]]></description>
-            <link>undefinedspeakup-singout-concert/index.html</link>
+            <link>https://thegrid.ai/sing-up-speak-out/speakup-singout-concert/index.html</link>
             <guid isPermaLink="false">cd7a3218-df81-4a09-8f49-d458c2d1edb9</guid>
             <pubDate>Thu, 21 Apr 2016 12:48:09 GMT</pubDate>
         </item>
