@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'We currently offer individual and group classes in piano, singing and guitar. One on one classes are 30 minutes long, and group classes are 40 minutes. All of our classes are taught with a focus on personal development and confidence building. '
-datePublished: '2016-04-26T10:29:01.379Z'
-dateModified: '2016-04-26T10:22:59.463Z'
+datePublished: '2016-04-26T10:31:29.928Z'
+dateModified: '2016-04-26T10:30:04.682Z'
 title: Instrumental Tuition Programs
 author: []
 sourcePath: _posts/2016-04-26-instrumental-tuition-programs.md
