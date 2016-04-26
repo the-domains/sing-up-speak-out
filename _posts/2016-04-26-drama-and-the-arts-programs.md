@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'll of our drama groups are about personal development and confidence building through the arts. Using a mixture of drama, music & games, we work with young people to help develop their skills & confidence. We currently have drama groups in three sections:'
-datePublished: '2016-04-26T10:42:18.884Z'
-dateModified: '2016-04-26T10:29:30.765Z'
+datePublished: '2016-04-26T10:42:39.548Z'
+dateModified: '2016-04-26T10:42:27.123Z'
 title: 'Drama & The Arts Programs'
 author: []
 sourcePath: _posts/2016-04-26-drama-and-the-arts-programs.md
