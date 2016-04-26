@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: We currently run four choirs. All choirs are taught with a total inclusion policy - they are for anyone and everyone. No previous experience required and no auditions necessary. Please message us for more details on enrollment for any of them.
-datePublished: '2016-04-26T10:05:57.607Z'
-dateModified: '2016-04-26T10:05:46.534Z'
+datePublished: '2016-04-26T10:27:51.565Z'
+dateModified: '2016-04-26T10:06:06.625Z'
 title: Choral Programs
 author: []
+sourcePath: _posts/2016-04-26-choral-programs.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-26-choral-programs.md
-published: true
 url: choral-programs/index.html
 _type: WebPage
 
